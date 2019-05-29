@@ -1,0 +1,12 @@
+discord.py[voice]
+requests
+pynacl
+asyncio
+Pillow
+numpy
+fuzzywuzzy[speedup]
+python-Levenshtein
+pyyaml
+aiogoogle
+pyfy
+lavalink
