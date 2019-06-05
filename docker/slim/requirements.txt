@@ -10,3 +10,4 @@ pyyaml
 aiogoogle
 pyfy
 lavalink
+aioify
