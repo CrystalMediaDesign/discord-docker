@@ -12,3 +12,4 @@ pyfy
 lavalink==2.1.10
 aioify
 selenium
+imgurpython
