@@ -16,3 +16,4 @@ imgurpython
 scrapy
 tabulate
 wolframalpha
+youtube_dl
