@@ -6,7 +6,7 @@ COPY requirements.txt ./
 
 RUN apt-get update
 
-RUN apt-get -y install chromium-driver gcc
+RUN apt-get -y install chromium-driver gcc ffmpeg
 
 RUN pip install --no-cache-dir -r requirements.txt
 
