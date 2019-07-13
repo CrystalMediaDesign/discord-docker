@@ -17,3 +17,5 @@ scrapy
 tabulate
 wolframalpha
 youtube_dl
+google-cloud-translate
+googletrans
