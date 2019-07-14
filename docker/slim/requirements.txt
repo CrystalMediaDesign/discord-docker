@@ -18,4 +18,5 @@ tabulate
 wolframalpha
 youtube_dl
 google-cloud-translate
+google-cloud-texttospeech
 googletrans
