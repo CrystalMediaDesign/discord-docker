@@ -21,3 +21,4 @@ google-cloud-translate
 google-cloud-texttospeech
 googletrans
 motor
+twitchio
