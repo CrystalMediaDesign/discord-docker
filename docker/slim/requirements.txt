@@ -4,6 +4,7 @@ pynacl
 asyncio
 Pillow
 numpy
+matplotlib
 fuzzywuzzy[speedup]
 python-Levenshtein
 pyyaml
